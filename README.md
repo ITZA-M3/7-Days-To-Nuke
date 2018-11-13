@@ -1,4 +1,4 @@
-# 7-Days-To-Nuke
+# 7 Days To Nuke
 
 Table of Contents
 1. Project
