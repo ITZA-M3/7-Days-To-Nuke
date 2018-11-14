@@ -1,0 +1,107 @@
+Main Npc Characters:
+          General- “Whaddya want!?”
+         “I don’t f***ing care! Do whatever the f**k you want.” *pout*
+“Darn rule of two motherfu-!!!” *slams down pipe*(surprisingly, the impact doesn’t break the pipe) “Coulda ended the Americans once and for all! But NO! ALL BECAUSE OF THE F***ING RULE!” Gotta be some way to rid of it forever look
+*Grumbles something about secretly launching the nuke*
+“As soon as you set foot in the communications room-” takes a puff of smoke from his pipe “-I’ll gut you.” *glares menacingly* (speaking to all of the crew members that are a suspect of being a spy)
+“WHY YOU-!” (said to politician after the insult)
+“Gun? What are you talking about? I don’t have a gun. Who has a gun? Ha ha ha.” *sweats nervously*
+“F**k politics! All we need is the USSR! Get rid of those other countries! That’ll solve all of our problems!”
+
+Politician- “With all due respect, someone like you wouldn’t understand the importance of ____.”
+“Really? I didn’t think that you knew how to write.” 
+“Prudence and competence is preferred in management”
+“What do you mean I am all talk but no action? Talking is the action!”
+“I am firmly against embezzlement, collusion, and corruption; let me attain my daily brib-I  mean gifts real quick.” (With money overflowing from his account)
+“How spurious the way you crudely refers to something as obsequious as politics!”
+(to the general)
+*scoffs* “This useless vessel could hardly stand a chance against my personal one. It would obliterated almost immediately.” 
+
+Captain- “F**k f**k f**k f**k! What are we going to do now!? There’s no time left! Tell me!!! I don’t want my baby to die! She’s the most perfect thing out here!” *shakes the politician fiercely*
+“I see…… Anyways! Forget about that! Help me with figure out a way to patch up Minerva.”
+“Who’s that? She’s this beauty!” *Gestures at the the blueprint of the sub*
+“Got any ideas?” *Crazy look in his eyes*
+“Give me a status report.” “No, not about the crew! At least not yet... I’m talking about Minerva! I want to hear how she’s doing first.” “Ok. Good. Anything else?”
+“Hm? Oh sorry, were you speaking? I wasn’t paying attention.”
+*hears a knock and quickly grabs sheets to wrap himself* “W-w-what was I-I doing? Oh… uh….um…  J-just making some...  Ad-adjustments! *chuckles nervously* Uh.. Nothing.. uh.. suspicious going on in here with me and …uh...my picture of Minerva!” 
+“Look. That’s not important right now. Get your priorities straight! WE NEED TO FOCUS ON MINERVA! LOOK AT THE STATE SHE IS IN!” *Gestures wildly around the room* “WHAT DO YOU MEAN SHE IS FINE!? WHAT PART IS FINE?! SHOW ME!!” *grabs collar of shirt and shakes the crew member violently*
+*overhears politician talking sh*t about sub* “You b**ch! You dare insult Minerva!?” *punches Politician*
+
+Side Npc Characters:
+	Nazeem: “Do you want some curry or what.”
+Chara #1: “Do you see them too? Those flying bees?! AAAAAAAAAAA!!!” *runs away*
+	Chara #2: “何? What do you mean you have a writer’s block? That’s not possible!!”
+	Chara #3: “No more food for you! You already depleted most of our rations! Any more and we’ll be eating you instead!” *sinister smile or laugh*
+	Chara #4: “HEY! STOP RUNNING!” *forces character to stop* “You’re wasting the oxygen reserves, dumbass.” (this guy could be an obstacle the player has to get passed)
+	Chara #5: “I have a gun...Just kidding. Only the general has a gun. I wonder where he keeps it...”
+	Chara #6: “Man… I swear I saw a rat on board but no one believes me… (side quest thing to find rat)”
+	Chara #7: “Dude, you know what was so weird? I was so mad at my roommate cuz we got into a fight ‘bout somethin’ but I forgot what it was about already, anyways, I kicked the wall and it sounded …. hollow. I can’t really open the panel though. Don’t really have any tools at the moment. Kinda got kicked out of me room and I’m not allowed back in. Its a wild world we live in, isn’t it?” (a side quest of sorts) 
+Chara #8: “Kinda wish I could go home. My wife’s close to giving birth and I’m not there with her!” *mumbles* “Shouldn’t have taken this job. My family’s more important…”
+Chara #9: “What are you doing?” “You sure this is where you’re supposed to be right now?” “Alright, if you say so….” (one of the chara that raises the suspicion meter if you answer wrong)
+	Chara #10:  *sigh* “I’m so tired of this sh*t. I wish this would be all over already.”
+	Chara #11: “I don’t understand. What are you trying to say? My buddy here isn’t a spy! He’s too bad at lying to be one!” (Could be the PC’s roommate or smth)
+	Chara #12: “Look, I understand what you’re going through. You got kicked out of your house because you had a disagreement with your wife. I been through that. It only gets better from here. Live life to the fullest without any tether. So when you die, you know you spent it doing what you wanted to do.” *puts finger on PC’s chest as he says the last line*
+	Chara #13: “Did you see the view outside? It’s aMAzinG!!!”
+	Chara #14: “Tis was soo worfth escapping the ro0m” (maniacal and creepy laughter)
+	Chara #15: *whispers to Chara #16* “Hey, did’ya hear that Capt is in wuv with teh sub?”
+	Chara #16: “Makes sense. I’ve heard some ‘noises’ coming from his room at night. Think I heard him screaming ‘Minerva’.”
+
+Dialogue Selection:
+	Goofy Replies- “
+
+Serious Replies- “
+
+Weird Replies- “
+
+Mean Replies- “
+
+Interactions w/ objects: 
+Inspect? - Y/N
+There is a weird carving on the wall. You -Ignore/Look Closer-
+  @You ignore the carving and continue on with you trek towards wherever you are going.
+  @Looking closer, it shows a heart with the initials M + C inside.
+There’s a clogged toilet in the stall next to the one you just finished cleaning, you -unclog/leave alone-
+  @Unclogging the toilet is unpleasant, but you did it anyways. However, after you unclog the toilet, you see a glint in the toilet bowl. You -grab it/flush-
+    $Curious, you grab the object. Upon closer inspection, it just seems to be poop. Turns out, it was just the light reflecting off the surface of the water. You immediately drop it back into the toilet bowl. You should probably go wash your hands now.
+    $You flush the object without a second thought, reverting it back to its original state.
+  @You leave the stall, knowing that you are going to have to come back to it eventually.
+You pass by the Crew quarters and see a bottle of what seems to be whiskey. You -leave it alone/pick it up-
+  @You continue walking. But you remain forever curious about the whiskey.
+  @You pick up the bottle, cautiously taking a whiff. It smells quite…. Different than what you’re used to. You -put down the bottle and leave/take a swig anyways-
+    $You carefully put down the ‘whiskey’ to where it was originally and leave.
+    $You gag, realizing the ‘whiskey’ was actually urine. Luckily, you decided to bring some water with you.
+You see a random lamp sitting in the corner of the the room. You -poke it/turn it on-
+  @You poke the lamp and it just falls. Shattering the bulb inside. It is also now blocking the way. You decide to -leave it/bring it back upright-
+    $You carefully step over the lamp, ignoring the consequences to come. After a few steps you hear a crash. You turn around and a guard has fallen. You -help guard(acquires key card)/stare-
+      %You help the guard while quickly grabbing the key card. You don’t know what you were thinking but it just happened. *Acquired Key Card!* The guard thanks you and picks up the lamp so no one else falls like he did. He then goes on to doing what he was doing before. (one way of getting key card)
+      %You stare at the fallen soldier, wondering how he didn’t see the lamp lying there. You shrug it off and let the guard get up on his own.
+   $You lean the lamp against the wall as a guard rushes pass you and accidently hits your shoulder. You almost fall back from the impact, but you manage to stay standing. He apologizes as he continues running down the hall.
+  @You turn on the lamp and immediately, someone comes up from behind you and turns it off saying ‘Are you an idiot? Why would you turn on a lamp when there’s already light from the ceiling? You’re wasting electricity!’ You shrug and go on your day
+
+Letters:
+General:
+Tutorial Letter- 
+Day 1-
+Day 2-
+Day 3-
+Day 4-
+Day 5-
+Day 6-
+
+Politician:
+Tutorial Letter-
+Day 1-
+Day 2-
+Day 3-
+Day 4-
+Day 5-
+Day 6-
+
+Captain:
+Tutorial Letter-
+Day 1-
+Day 2-
+Day 3-
+Day 4-
+Day 5-
+Day 6-
