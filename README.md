@@ -7,4 +7,6 @@ Table of Contents
 4. Usage
 5. Credits
 
-Project:
+
+-Project-
+This project was made by Game Development Club.
